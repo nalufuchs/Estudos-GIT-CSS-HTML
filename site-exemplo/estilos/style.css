@@ -3,13 +3,37 @@
 font-size: 16px;}
 
 body {
-    background-color: rgb(177, 177, 177);
+    background-color: rgb(124, 199, 237);
 }
 
 main {
-    background-color: rgb(196, 202, 207);
+    background-color: rgb(249, 245, 245);
     width: 500px;
     margin:auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(52, 52, 52);
+}
+
+h1 {
+    font-size: 2em
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    }
+
+
+    
+a:hover {
+    text-decoration: underline
+    rgb(253, 246, 35)
 }
